@@ -1,0 +1,108 @@
+<table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Designación</th>
+      <th>Descripción</th>
+      <th>Denominación</th>
+      <th>HSW Cat. no.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zylinder 0,3 ml LL kpl.</td>
+      <td>Barrel 0,3 ml LL cpl.</td>
+      <td>Cylindre 0,3 ml LL cpl.</td>
+      <td>8300004658</td>
+    </tr>
+    <tr>
+      <td>Zylinder 0,3 ml GW kpl.</td>
+      <td>Barrel 0,3 ml thread cpl.</td>
+      <td>Cylindre 0,3 ml à vis cpl.</td>
+      <td>8300004659</td>
+    </tr>
+    <tr>
+      <td>Zylinder 0,5 ml LL kpl.</td>
+      <td>Barrel 0,5 ml LL cpl.</td>
+      <td>Cylindre 0,5 ml LL cpl.</td>
+      <td>8300039928</td>
+    </tr>
+    <tr>
+      <td>Zylinder 1 ml LL kpl.</td>
+      <td>Barrel 1 ml LL cpl.</td>
+      <td>Cylindre 1 ml LL cpl.</td>
+      <td>8300007954</td>
+    </tr>
+    <tr>
+      <td>Zylinder 1 ml GW kpl.</td>
+      <td>Barrel 1 ml thread cpl.</td>
+      <td>Cylindre 1 ml à vis cpl.</td>
+      <td>8300007955</td>
+    </tr>
+    <tr>
+      <td>Zylinder 2 ml LL kpl.</td>
+      <td>Barrel 2 ml LL cpl.</td>
+      <td>Cylindre 2 ml LL cpl.</td>
+      <td>3602130160</td>
+    </tr>
+    <tr>
+      <td>Zylinder 2 ml GW kpl.</td>
+      <td>Barrel 2 ml thread cpl.</td>
+      <td>Cylindre 2 ml à vis cpl.</td>
+      <td>8300000935</td>
+    </tr>
+    <tr>
+      <td>Zylinder 5 ml LL kpl.</td>
+      <td>Barrel 5 ml LL cpl.</td>
+      <td>Cylindre 5 ml LL cpl.</td>
+      <td>3605130160</td>
+    </tr>
+    <tr>
+      <td>Zylinder 5 ml GW kpl.</td>
+      <td>Barrel 5 ml thread cpl.</td>
+      <td>Cylindre 5 ml à vis cpl.</td>
+      <td>8300001782</td>
+    </tr>
+    <tr>
+      <td>O-Ring 0,3 ml</td>
+      <td>Piston o-ring 0,3 ml</td>
+      <td>Rondelle 0,3 ml</td>
+      <td>85389299</td>
+    </tr>
+    <tr>
+      <td>O-Ring 0,5 ml</td>
+      <td>Piston o-ring 0,5 ml</td>
+      <td>Rondelle 0,5 ml</td>
+      <td>8300034255</td>
+    </tr>
+    <tr>
+      <td>O-Ring 1 ml</td>
+      <td>Piston o-ring 1 ml</td>
+      <td>Rondelle 1 ml</td>
+      <td>8300006280</td>
+    </tr>
+    <tr>
+      <td>O-Ring 2 ml</td>
+      <td>Piston o-ring 2 ml</td>
+      <td>Rondelle 2 ml</td>
+      <td>3602030080</td>
+    </tr>
+    <tr>
+      <td>O-Ring 5 ml</td>
+      <td>Piston o-ring 5 ml</td>
+      <td>Rondelle 5 ml</td>
+      <td>3605030080</td>
+    </tr>
+    <tr>
+      <td>Standard Flaschenkorb (für Flaschen bis 100ml)</td>
+      <td>Standard basket (for bottles up to 100ml)</td>
+      <td>Panier standard</td>
+      <td>81402799</td>
+    </tr>
+    <tr>
+      <td>Sonder-Flaschenkorb (für Flaschen bis 250ml)</td>
+      <td>Special basket (for bottles up to 250ml)</td>
+      <td>Panier special</td>
+      <td>8300013288</td>
+    </tr>
+  </tbody>
+</table>
